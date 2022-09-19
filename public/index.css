@@ -1,0 +1,47 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    width: 80%;
+    padding: 10px 10% 0px 10%;
+}
+
+.separator {
+    width: 100%; 
+    height: 2px; 
+    background-color: #9b1313;
+    margin-bottom: 20px;
+}
+
+.bg-quotes {
+    background-color: #ebe8e8;
+    width: 100%;
+    padding: 10px;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+.quote:hover {
+    color: #9b1313;
+    cursor: pointer;
+}
+
+#refresh {
+    border: none;
+    background-color: #06619e;
+    padding: 10px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 10px;
+    float: right;
+    margin-top: -50px;
+    margin-right: 10px;
+}
+
+#refresh:hover {
+    background-color: #0a3b5c;
+    cursor: pointer;
+}
