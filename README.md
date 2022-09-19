@@ -30,7 +30,7 @@ Kanye West Quotes Technical Test
 
 ### 1. Backend
   1. Clone the repository
-    ```https://github.com/Dom58/kanyawest-quotes.git``` by running ```git clone https://github.com/Dom58/kanyawest-quotes.git```
+    ```<clone command>``` by running ```git clone <clone command>```
      
   2. Go to root folder by running
 
@@ -69,4 +69,4 @@ Go to your root folder of your project and open ``CMD`` in it and type ``php art
 
   
 ## Author
-Dominique Ndahimana
+Shagufta Ambreen
